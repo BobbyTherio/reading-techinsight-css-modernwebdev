@@ -1,0 +1,28 @@
+-----------------------------------------------------------------
+|								|
+| Tech Insight: How important is CSS in modern web development? |
+|								|
+-----------------------------------------------------------------
+
+1.	Uses of CSS
+Article Link: https://www.educba.com/uses-of-css/
+Now, Can you share with us from your point of view why to use CSS?
+
+Answer : 
+	First of all, we need to use CSS to create beautiful website. Who likes to go on a website without any design.
+	When you want to know more about a company first thing you do you go to their website. If they have a beautiful one it's a plus !
+	Maintaining CSS is quite easy. We can modify and change anything without much effort.
+	Many platform can be related with the help of CSS.
+	CSS is very easy to learn and if you ever need help, there is a huge community that can help you. Along with JavaScript.
+
+-----------------------------------------------------------------
+
+2.	28 Outstanding Examples of CSS
+Article Link: https://www.creativebloq.com/web-design/examples-css-912710
+Now, Which one of the mentioned examples would you like to design?
+
+
+Answer : 
+	It is pretty hard to tell, I would probably go with any of these but if I have to name only one I would go with BucketListly.
+	The website is one of the most beautiful among this list and it could be a nice challenge to tackle.
+	It kind of connect with me because I am a traveler and I might have some stories to share.
